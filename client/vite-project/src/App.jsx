@@ -5,7 +5,7 @@ import Result from "./pages/Result";
 import { Routes, Route } from "react-router-dom";
 import NavBar from "./components/NavBar";
 import Footer from "./components/Footer";
-import Login from "./components/login";
+import Login from "./components/Login";
 import { ToastContainer } from "react-toastify";
 import { AppContext } from "./context/AppContext";
 
